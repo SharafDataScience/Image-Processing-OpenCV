@@ -9,6 +9,10 @@ Each notebook in this repository focuses on a specific OpenCV concept:
 - **Blending_Image_opencv.ipynb**  
   Demonstrates how to blend two images using OpenCV.
 
+- **Otsu’s Binarization**
+  is primarily used for image segmentation, particularly thresholding-based segmentation. It is a global thresholding technique that 
+  automatically finds the optimal threshold value to separate the foreground and background in an image.
+
 - **Color_distribution.ipynb**  
   Visualizes color distributions in images, including histograms and color spaces.
 
