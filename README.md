@@ -6,6 +6,9 @@ This repository contains a collection of Jupyter notebooks demonstrating various
 
 Each notebook in this repository focuses on a specific OpenCV concept:
 
+- **Convex Hull Image**
+This project demonstrates how to compute and visualize the convex hull of a set of points in an image. A convex hull is the smallest convex shape that completely encloses all the points in a given set—think of it like wrapping a rubber band around the outermost dots.
+
 - **Blending_Image_opencv.ipynb**  
   Demonstrates how to blend two images using OpenCV.
 
